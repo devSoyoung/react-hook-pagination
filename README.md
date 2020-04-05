@@ -47,3 +47,5 @@ export default usePagination;
 ```
 
 `usePagination`에서 `useState`로 상태 변수를 만들고, `setCurrentPage`를 이용해 다양한 상황에 따라 상태를 변경할 수 있는 함수를 만든 후, 해당 함수들을 Export 합니다.
+
+> **Ref** : https://dev.to/sebastianguenther/react-creating-a-custom-hook-for-pagination-jni
